@@ -14,6 +14,7 @@ Split system:
 `1 output`, `2 output`,  `_n` -> Final Outcum
 
 # Material Data Structure
+<pre>
 Step 1:
     Palatte 1: `c0`
     Palette 2: `c1`
@@ -25,3 +26,4 @@ Step 2:
     Palette 2:
         `c2`: specular
         `c3`: metallic specular
+</pre>
